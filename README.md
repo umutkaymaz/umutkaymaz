@@ -1,5 +1,5 @@
 ### Hi there 👋
-### My name is Umut. I'm an undergrad AI Engineering Student at TOBB University of Economics and Technology.
+### My name is Umut. I'm an undergrad AI Engineering student at TOBB University of Economics and Technology.
 ### I'm currently a beginner in coding in general but I try to improve myself everyday.
 ### Feel free to reach me at Discord: @warcuss
 
