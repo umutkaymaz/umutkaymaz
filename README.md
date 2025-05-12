@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### My name is Umut. I'm an undergrad AI Engineering student at TOBB University of Economics and Technology.
-### I'm currently a beginner in coding in general but I try to improve myself everyday.
+### I try to improve myself everyday, feel free to contact me!
 
 <!--
 **umutkaymaz/umutkaymaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
